@@ -4,6 +4,7 @@ px-md-4 mb-3 bg-white border-bottom shadow-sm">
     <nav  class="my-2 my-md-0 mr-md-3">
         <a class = "p-2 text-dark" href="#"> Главная</a>
         <a class = "p-2 text-dark" href="#"> Контакты</a>
+        <h1> леша гей</h1>
     </nav>
     <a class="btn btn-outline-primary" href="#">Войти</a>
 </div>
