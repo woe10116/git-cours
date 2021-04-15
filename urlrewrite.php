@@ -25,3 +25,4 @@ $arUrlRewrite=array (
     'SORT' => 100,
   ),
 );
+ч
