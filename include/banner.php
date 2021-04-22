@@ -1,1 +1,1 @@
-<img src="/include/banner.png"  />
+<img src="/include/banner.jpg"  />
